@@ -1,0 +1,25 @@
+.tableheader{
+    background-color: #E2F0F3;
+   
+}
+
+.tableex {
+    padding: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+.tableheader th {
+    padding: 0rem 3rem !important;
+   
+}
+.editimage{
+    height: 14px;
+    margin-right: 4px;
+}
+.actionbutton{
+    background-color: white;
+}
+
+.actionbutton:hover{
+    background-color: lightblue;
+}

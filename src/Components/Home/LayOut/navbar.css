@@ -1,0 +1,41 @@
+
+
+.navbar-head{
+    background-color: whitesmoke;
+    height: 60px;
+    width:100%;
+    display: flex;
+}
+
+.left-side{
+    flex: 50%;
+}
+
+.right-side{
+    flex: 50%;    
+    justify-content: flex-end;
+    justify-items: right;
+    margin-right: -1028px;
+    margin-top: 10px;
+}
+
+.img-circle{
+      border-radius:250px 250px ;
+      height : 30px;
+      width : 30px;
+    
+      }
+.img-head{
+    margin-top: 10px;
+    margin-left: 36px;
+    margin-right: 10px;
+    height: 40px;
+}
+.lable-header{
+    color: #3497FD;
+    align-items: center;
+}
+.barcolor {
+    color: #3497FD;
+    margin-left: 60px;
+}

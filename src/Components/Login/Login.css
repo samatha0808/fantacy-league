@@ -1,0 +1,44 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('../../images/Group.png');
+  background-size: cover;
+  background-position: center center;
+  opacity: 1;
+}
+.ipl-logo {
+    position: absolute;
+    top: 200px;
+    left: 290px;
+    height: 374px;
+    width: 294px;
+    background: url('../../images/ipllogo.png');
+}
+.appName {
+    color: #2962FF;
+    font: normal normal bold  Proxima Nova;
+}
+.email-input {
+    position: relative;
+    width: 240px;
+}
+.email-input img {
+    position : absolute;
+    top: 10px;
+    left: 13px;
+}
+.password-input {
+    position: relative;
+    width: 240px;
+}
+.password-input img {
+    position : absolute;
+    top: 6px;
+    left: 9px;
+}
+.btn-size{
+    padding: 0.2rem 6rem !important;
+}

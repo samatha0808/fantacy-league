@@ -1,0 +1,25 @@
+.match-tableheader{
+    background-color: #E2F0F3;
+    width: 1000px;
+    height: 40px;
+}
+
+.match-table {
+    padding: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+.match-tableheader th {
+    padding: 0.5rem 3.9rem !important;
+   
+}
+.buttoncss{
+    background-color: white;
+    border: 1px solid gray;
+    color: #033974;
+    margin-right: 8px;
+}
+
+.buttoncss:hover{
+    background-color: lightblue;
+}

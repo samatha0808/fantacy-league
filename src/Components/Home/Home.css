@@ -1,0 +1,16 @@
+
+
+.container-fluid{
+    display: flex;
+}
+.toggleIcon {
+    border: 2px;
+}
+
+.h5 {
+    display: inline;
+    position: relative;
+    left:80px;
+    text-align: left;
+    margin-left: 10px;
+}
